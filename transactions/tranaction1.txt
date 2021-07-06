@@ -1,0 +1,7 @@
+
+createrawtransaction '[{"txid":"TXID","vout": VOUT}]’’{“to_address”:amount1, “from_address”:amount2}’
+
+createrawtransaction '[{"txid":"f331a794b18ec543d901774dce3b0bd22848512aacee29f9fb1e3955015bae3c", "vout":1}]' '{"tb1qmx8d7a9klmuzsj0c4xt2kk7x3fkeltwf52lysx":0.0001, "tb1qcl5xv70mfsxrzyd82gv29zenp78rmax3rqgy8h":0.0002}'
+
+
+
